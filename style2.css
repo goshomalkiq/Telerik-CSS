@@ -1,0 +1,42 @@
+th {
+    text-align: left;
+}
+td {
+    text-align: left;
+}
+#main-th{border:solid black 1px;
+background-color:3ADE1D;
+color:#FFFFFF;
+ 
+}
+table{
+border-collapse: collapse;}
+
+#nav-td1{
+border-right:solid gray 1px;
+background-color:#C7C9C7 }
+
+#nav-td2{
+border-right:solid gray 1px;
+background-color:#C7C9C7;
+border-bottom:solid gray 1px;
+ 
+ }
+ 
+ #main-td3{border-right:solid gray 1px;
+ border-left:solid gray 1px;
+ }
+ 
+ #input1{border-right:solid gray 1px;
+ border-left:solid gray 1px;
+ border-bottom:solid gray 1px;
+ background-color:#C7C9C7}
+	
+#input2{border-right:solid gray 1px;
+
+
+}
+#input3{border-right:solid gray 1px;
+background-color:#C7C9C7;
+
+}
